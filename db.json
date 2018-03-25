@@ -1,0 +1,16 @@
+{
+  "tribes": [
+    {
+      "id": 1,
+      "name": "Tribe 1"
+    },
+    {
+      "id": 2,
+      "name": "Tribe 2"
+    },
+    {
+      "id": 3,
+      "name": "Tribe 3"
+    }
+  ]
+}
